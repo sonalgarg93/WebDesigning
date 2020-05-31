@@ -36,7 +36,7 @@ h3{
 }
 
 .circular{
-  background-color:green;
+  border-radius: 100%;
 }
 
 /*************************ID Selectors**********************************/
