@@ -1,4 +1,6 @@
 
+/*************************TAG Selectors**********************************/
+
   body{
     background-color:#fee2b3;;
   }
@@ -6,18 +8,29 @@
   hr{
     background-color:white;
     border-style: dotted none none;
-    width : 30px;
-    height :0px;
     border-width: 5px;
     border-color:grey;
+    height :0px;
+    width : 30px;
   }
 
 h1{
   color:#66BFBF;;
 
 }
-
+/*
 h3{
   color:#66BFBF;;
 
+}
+*/
+
+/*************************CLASS Selectors**********************************/
+
+.MainHeading{
+  background-color:yellow;
+}
+
+.lowerheading{
+  background-color:red;
 }
